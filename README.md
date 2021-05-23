@@ -1,7 +1,5 @@
 # ftp
-Ftp is my amazing tool which is used for sharing files from your device in internet.You can share any files from your device in internet without upload anywhere by using this tool.
-
-
+Hello there,this is an amazing file sharing tool.You can  share any file from your storage without uploading anywhere.
 :point_right: Follow bellow steps for using this tool
 
  $ pkg install git -y 
