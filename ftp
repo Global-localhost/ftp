@@ -1,0 +1,3 @@
+clear
+cd $HOME/ftp
+bash ftp.sh
