@@ -14,8 +14,7 @@ Hello there,this is an amazing file sharing tool.You can  share any file from yo
 
   <a style="color:red" href="https://www.facebook.com/fozley.rabbi">Follow me on facebook</a>
 
- ## practical video:  https://bit.ly/2MpKf7Q or https://bit.ly/3aqAfTJ
-
+ ## practical video:  
 - Tool Screenshot:
 
 ![](ftp.png)
