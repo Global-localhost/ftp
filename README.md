@@ -8,7 +8,7 @@ Hello there,this is an amazing file sharing tool.You can  share any file from yo
 
  $ cd ftp
 
- $ bash setup.sh
+ $ bash setup
 
  $ ftp
 
