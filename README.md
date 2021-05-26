@@ -17,4 +17,4 @@ Hello there,this is an amazing file sharing tool.You can  share any file from yo
  ## practical video:  
 - Tool Screenshot:
 
-![](ftp.png)
+![](ft.png)
