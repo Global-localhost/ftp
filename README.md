@@ -25,7 +25,7 @@ Hello there,this is an amazing file sharing tool.You can  share any file from yo
 :point_right: You can see your file which is ready for share by choosing option 4
 
 
- ## practical video:  
+ ## Bangla tutorial:https://cutt.ly/mntcUK0  
 - Tool Screenshot:
 
 ![](ftp.png)
